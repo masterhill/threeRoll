@@ -1,0 +1,55 @@
+﻿  autofit.c
+  ftbase.c
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\base\ftrfork.c(808): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\base\ftrfork.c(809): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\base\ftrfork.c(798): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+  ftbbox.c
+  ftbitmap.c
+  ftfstype.c
+  ftgasp.c
+  ftglyph.c
+  ftinit.c
+  ftmm.c
+  ftpfr.c
+  ftstroke.c
+  ftsynth.c
+  ftsystem.c
+src\base\ftsystem.c(240): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  fttype1.c
+  ftwinfnt.c
+  bdf.c
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\bdf\bdflib.c(1984): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\bdf\bdflib.c(1997): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\bdf\bdflib.c(2319): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+g:\lijmopengl\openglall\opengl001\test001\freetype\src\bdf\bdflib.c(2327): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  ftbzip2.c
+  ftcache.c
+  cff.c
+  type1cid.c
+  正在生成代码...
+  正在编译...
+  ftgzip.c
+  ftlzw.c
+  pcf.c
+  pfr.c
+  psaux.c
+  pshinter.c
+  psmodule.c
+  raster.c
+  sfnt.c
+  smooth.c
+  truetype.c
+  type1.c
+  type42.c
+  winfnt.c
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(G:\lijmOpenGl\OpenGlAll\OpenGl001\Release\freetype.dll) does not match the Linker's OutputFile property value (G:\lijmOpenGl\OpenGlAll\OpenGl001\bin\ReleaseWin32\freetype.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 ../../lib/ReleaseWin32/freetype.lib 和对象 ../../lib/ReleaseWin32/freetype.exp
+  freetype.vcxproj -> G:\lijmOpenGl\OpenGlAll\OpenGl001\Release\freetype.dll
+  freetype.vcxproj -> G:\lijmOpenGl\OpenGlAll\OpenGl001\Release\freetype.pdb (Full PDB)

@@ -1,0 +1,22 @@
+﻿  glew.c
+  main.cpp
+g:\lijmopengl\openglall\opengl001\test001\openglwindow.h(134): error C2065: “GWL_USERDATA”: 未声明的标识符
+g:\lijmopengl\openglall\opengl001\test001\openglwindow.h(134): warning C4311: “类型转换”: 从“OpenGLWindow *”到“LONG”的指针截断
+g:\lijmopengl\openglall\opengl001\test001\openglwindow.h(134): warning C4302: “类型转换”: 从“OpenGLWindow *”到“LONG”截断
+g:\lijmopengl\openglall\opengl001\test001\openglwindow.h(139): error C2065: “GWL_USERDATA”: 未声明的标识符
+g:\lijmopengl\openglall\opengl001\test001\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(31): warning C4996: 'av_register_all': 被声明为已否决
+  g:\lijmopengl\openglall\opengl001\test001\include\libavformat\avformat.h(2050): note: 参见“av_register_all”的声明
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(60): warning C4018: “<”: 有符号/无符号不匹配
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(62): warning C4996: 'AVStream::codec': 被声明为已否决
+  g:\lijmopengl\openglall\opengl001\test001\include\libavformat\avformat.h(885): note: 参见“AVStream::codec”的声明
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(73): warning C4996: 'AVStream::codec': 被声明为已否决
+  g:\lijmopengl\openglall\opengl001\test001\include\libavformat\avformat.h(885): note: 参见“AVStream::codec”的声明
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(123): warning C4996: 'av_free_packet': 被声明为已否决
+  g:\lijmopengl\openglall\opengl001\test001\include\libavcodec\avcodec.h(4473): note: 参见“av_free_packet”的声明
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(133): warning C4996: 'avcodec_decode_video2': 被声明为已否决
+  g:\lijmopengl\openglall\opengl001\test001\include\libavcodec\avcodec.h(4828): note: 参见“avcodec_decode_video2”的声明
+g:\lijmopengl\openglall\opengl001\test001\ffmpegvideoreader.h(147): warning C4996: 'av_free_packet': 被声明为已否决
+  g:\lijmopengl\openglall\opengl001\test001\include\libavcodec\avcodec.h(4473): note: 参见“av_free_packet”的声明
+g:\lijmopengl\openglall\opengl001\test001\main.cpp(202): warning C4838: 从“int”转换到“float”需要收缩转换
+g:\lijmopengl\openglall\opengl001\test001\main.cpp(202): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据

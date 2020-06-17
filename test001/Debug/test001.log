@@ -1,0 +1,12 @@
+﻿  main.cpp
+h:\openglproj\openglall\opengl001\test001\camera3rd.h(38): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\openglproj\openglall\opengl001\test001\camera3rd.h(39): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\openglproj\openglall\opengl001\test001\camera3rd.h(52): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\openglproj\openglall\opengl001\test001\camera3rd.h(53): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+h:\openglproj\openglall\opengl001\test001\main.cpp(244): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+h:\openglproj\openglall\opengl001\test001\main.cpp(255): warning C4305: “-=”: 从“double”到“float”截断
+h:\openglproj\openglall\opengl001\test001\main.cpp(258): warning C4305: “+=”: 从“double”到“float”截断
+h:\openglproj\openglall\opengl001\test001\main.cpp(261): warning C4305: “-=”: 从“double”到“float”截断
+h:\openglproj\openglall\opengl001\test001\main.cpp(264): warning C4305: “+=”: 从“double”到“float”截断
+  test001.vcxproj -> H:\OPENGLProj\OpenGlAll\OpenGl001\Debug\test001.exe
+  test001.vcxproj -> H:\OPENGLProj\OpenGlAll\OpenGl001\Debug\test001.pdb (Full PDB)
